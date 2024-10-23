@@ -1,0 +1,38 @@
+// Use this to overwrite Bootstrap and theme variables
+
+// Example of a variable override to change the primary color.
+// Remove the "//" to uncomment it and see it in action.
+// $primary: #36a6cf;
+
+// Example of a variable override to change the theme font.
+// Remove the "//" to uncomment it and see it in action.
+// $font-family-sans-serif: "Arial", sans-serif;
+
+// To use a custom font, first add the font files inside folder src/assets/fonts/
+// Then use the example below to import your custom font.
+// Remove the "//" to uncomment it and see it in action.
+// $path-to-fonts: '../fonts/myfont/myfont.css';
+// $font-family-sans-serif: "My Font Name", sans-serif;
+
+// To use a Google font use the example below.
+// Remove the "//" to uncomment it and see it in action.
+// $path-to-fonts: 'https://fonts.googleapis.com/css2?family=Montserrat:ital@0;1&display=swap';
+// $font-family-sans-serif: 'Montserrat', sans-serif;
+
+:root {
+    --main-color: rgb(0, 117, 61);
+    --color-gad01: rgba(0, 115, 59, 1);
+    --color-gad02: rgba(139, 197, 63, 1);
+    --color-gad03: rgba(145, 41, 140, 1);
+    --color-gad04: rgba(234, 8, 139, 1);
+  
+    --color-gad01: #00733b;
+    --color-gad02: #8bc53f;
+    --color-gad03: #91298c;
+    --color-gad04: #ea088b;
+  }
+  
+
+$primary: #00753d;
+$fuchsia: #91298c;
+$pink: #ea088b;

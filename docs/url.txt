@@ -1,0 +1,5 @@
+// Link de Iconos en svg
+https://www.svgrepo.com/svg/268886/egg?edit=true
+
+// Pagina para visualizar svg y convertir en componente react
+https://www.svgviewer.dev/svg-to-react-jsx
